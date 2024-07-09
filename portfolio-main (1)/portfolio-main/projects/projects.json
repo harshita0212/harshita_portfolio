@@ -1,0 +1,45 @@
+[
+  
+  
+  {
+    "name": "Amazon MERN",
+    "desc": "Full-Stack Amazon with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com"
+    }
+  },
+  {
+    "name": "FINANCIAL EDTech Website",
+    "desc": "This website is specially build for a trading firm where they can enroll future trader and manage courses.",
+    "image": "o",
+    "category": "basicweb",
+    "links": {
+      "view": "https://optionxpert.netlify.app/",
+      "code": "https://github.com/Raisaab02/e-learning-site-project"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/raisaab02/portfolio"
+    }
+  }
+]
